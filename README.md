@@ -9,9 +9,9 @@ Class Values:
 (unacc, acc, good, vgood)
 
 Attributes:
-buying: (vhigh, high, med, low)
-maint: (vhigh, high, med, low)
-doors: (2, 3, 4, 5more)
-persons: (2, 4, more)
-lug_boot: (small, med, big)
-safety: (low, med, high)
+1. buying: (vhigh, high, med, low)
+2. maint: (vhigh, high, med, low)
+3. doors: (2, 3, 4, 5more)
+4. persons: (2, 4, more)
+5. lug_boot: (small, med, big)
+6. safety: (low, med, high)
